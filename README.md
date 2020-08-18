@@ -1,6 +1,7 @@
 # zabbix
 zabbix报警脚本
 服务器:{HOST.NAME}发生: {TRIGGER.NAME}故障!
+========警告========
 {
 告警主机:{HOST.NAME}
 告警地址:{HOST.IP}
@@ -15,6 +16,7 @@ zabbix报警脚本
   
 
 服务器:{HOST.NAME}: {TRIGGER.NAME}已恢复!
+========恢复========
 {
 告警主机:{HOST.NAME}
 告警地址:{HOST.IP}
