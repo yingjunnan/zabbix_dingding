@@ -1,6 +1,6 @@
 # zabbix
-#脚本参数  {ALERT.MESSAGE}
-zabbix报警脚本
+# 脚本参数  {ALERT.MESSAGE}
+# zabbix报警脚本
 
 服务器:{HOST.NAME}发生: {TRIGGER.NAME}故障!
 ========警告========
