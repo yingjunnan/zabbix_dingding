@@ -1,8 +1,8 @@
 ### zabbix
 ### 脚本参数  {ALERT.MESSAGE}
-wget https://bootstrap.pypa.io/pip/2.7/get-pip.py   
-python get-pip.py  
-pip2 install requests  
+#wget https://bootstrap.pypa.io/pip/2.7/get-pip.py   
+#python get-pip.py  
+#pip2 install requests  
 ### zabbix报警脚本  
 ------
 服务器:{HOST.NAME}发生: {TRIGGER.NAME}故障!  
